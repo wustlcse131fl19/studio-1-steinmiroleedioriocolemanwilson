@@ -13,7 +13,7 @@ public class HiFour {
 		String s1 = ap.nextString("Enter value for arg 1");
 		String s2 = ap.nextString("Enter value for arg 2");
 		String s3 = ap.nextString("Enter value for arg 3");
-		System.out.println("S3");
+		System.out.println("Names: " + s3 + ", " + s2 + ", "  + s1 + ", " + s0);
 		//
 		// Say hello to the names in s0 through s3.
 		//
